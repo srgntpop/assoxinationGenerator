@@ -4,4 +4,5 @@
 
 
 // Assoxinator class
+// attributes: life, target
 
